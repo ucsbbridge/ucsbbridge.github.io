@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on UCSB Bridge Club</title>
+    <link>http://ucsbbridge.github.io/news/</link>
+    <description>Recent content in News on UCSB Bridge Club</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 22 Aug 1970 09:35:29 -0700</lastBuildDate>
+    
+	<atom:link href="http://ucsbbridge.github.io/news/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome back to the 3rd Year of UCSB Bridge Club</title>
+      <link>http://ucsbbridge.github.io/news/2019_welcome/</link>
+      <pubDate>Sat, 22 Aug 1970 09:35:29 -0700</pubDate>
+      
+      <guid>http://ucsbbridge.github.io/news/2019_welcome/</guid>
+      <description>Hello everyone, and welcome to Year Three of the UCSB Bridge Club! I am very excited for another year filled with fun, food, friends, and finesses as we seek to build upon a wildly successful 2018-19. I have high hopes for more success this year, both in terms of growing our club and as relates to our competitive aspirations in the College Bridge Bowl. I look forward to having many of you along for the ride!</description>
+    </item>
+    
+  </channel>
+</rss>
