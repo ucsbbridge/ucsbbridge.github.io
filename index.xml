@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>UCSB Bridge Club</title>
@@ -6,10 +6,37 @@
     <description>Recent content on UCSB Bridge Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Aug 1970 09:35:29 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 1970 12:22:07 -0700</lastBuildDate>
     
 	<atom:link href="http://ucsbbridge.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Welcome back to Year 4 of the UCSB Bridge Club!</title>
+      <link>http://ucsbbridge.github.io/news/2020_welcome/</link>
+      <pubDate>Sat, 22 Aug 1970 12:22:07 -0700</pubDate>
+      
+      <guid>http://ucsbbridge.github.io/news/2020_welcome/</guid>
+      <description>It is a brave new world, but Bridge Club is still here to help you through it. While Andrew&amp;rsquo;s homemade cookies are not in the cards for the time being, we still have the great camaraderie you all have come to know and love. Using Bridge Base Online and Zoom, we have been able to make our digital transition as seamless as possible. I hope many of you will join us in the weeks and months ahead as we navigate these trying times.</description>
+    </item>
+    
+    <item>
+      <title>UCSB Wins the Online College Bridge Championship!!!</title>
+      <link>http://ucsbbridge.github.io/news/2020_ocbc_win/</link>
+      <pubDate>Sat, 22 Aug 1970 12:20:01 -0700</pubDate>
+      
+      <guid>http://ucsbbridge.github.io/news/2020_ocbc_win/</guid>
+      <description>The Overbidders Anonymous have finally done it! In a thrilling 106-102 victory over the Claremont Colleges bridge team, your UCSB players have taken home the college crown for the first time in program history. UCSB took first place in its seeding group in the qualifying stage by handily defeating Georgetown, Yale, and Caltech. In the knockout, UCSB stomped over Northwestern and executed an impeccable comeback to edge past traditional powerhouse Georgia Tech in the semifinals.</description>
+    </item>
+    
+    <item>
+      <title>Zoë plays in Junior United States Bridge Championship</title>
+      <link>http://ucsbbridge.github.io/news/2019_usbf_rona/</link>
+      <pubDate>Sat, 22 Aug 1970 09:40:30 -0700</pubDate>
+      
+      <guid>http://ucsbbridge.github.io/news/2019_usbf_rona/</guid>
+      <description>Zoë Bowlus competed in the 2019 Michael Seamon Junior United States Bridge Championship (MSJUSBC), in the Under 26 Womens (&amp;ldquo;Rona&amp;rdquo;) category. She played with Sophie Dai, Helen Abadiotakis and Samantha Leff.</description>
+    </item>
     
     <item>
       <title>Welcome back to the 3rd Year of UCSB Bridge Club</title>
@@ -18,6 +45,42 @@
       
       <guid>http://ucsbbridge.github.io/news/2019_welcome/</guid>
       <description>Hello everyone, and welcome to Year Three of the UCSB Bridge Club! I am very excited for another year filled with fun, food, friends, and finesses as we seek to build upon a wildly successful 2018-19. I have high hopes for more success this year, both in terms of growing our club and as relates to our competitive aspirations in the College Bridge Bowl. I look forward to having many of you along for the ride!</description>
+    </item>
+    
+    <item>
+      <title>Danning and Andrew earn a chance to play in the North American Pairs at the Spring NABC</title>
+      <link>http://ucsbbridge.github.io/news/2019_nabc_pairs/</link>
+      <pubDate>Sat, 22 Aug 1970 09:35:07 -0700</pubDate>
+      
+      <guid>http://ucsbbridge.github.io/news/2019_nabc_pairs/</guid>
+      <description>Competing in District 22&amp;rsquo;s Flight C grouping, Danning and Andrew finished second to earn $500 to travel to Columbus for the Spring NABC and the North American Pairs (NAP). In addition to being relaxing and refreshing, NAPs are the preeminent match-points games in the US every year. While the 2020 Spring NABC was one of the first victims of virus-related cancellations, Danning and Andrew look forward to competing when they are able to do so.</description>
+    </item>
+    
+    <item>
+      <title>UCSB Overbidders Anonymous compete at the College Bridge Bowl in Las Vegas</title>
+      <link>http://ucsbbridge.github.io/news/2019_college_bowl/</link>
+      <pubDate>Sat, 22 Aug 1970 09:32:07 -0700</pubDate>
+      
+      <guid>http://ucsbbridge.github.io/news/2019_college_bowl/</guid>
+      <description>UCSB&amp;rsquo;s four-member team (Andrew, Nicholas, Danning, and Sarp) competed in team and pair events as part of the 2019 College Bridge Bowl this past summer. While the team finished one spot out of qualifying for the knockout phase, they exorcised some demons with a 10-IMP victory over eventual champion UC Berkeley. In the inaugural pairs championship event, Danning and Sarp took second place in Flight B, earning $1,000 scholarships. The team looks forward to building upon its performance in next year&amp;rsquo;s event.</description>
+    </item>
+    
+    <item>
+      <title>UCSB quartet finishes as finalists in the District 22 Grand National Teams</title>
+      <link>http://ucsbbridge.github.io/news/2019_district22_gnt/</link>
+      <pubDate>Sat, 22 Aug 1970 09:30:01 -0700</pubDate>
+      
+      <guid>http://ucsbbridge.github.io/news/2019_district22_gnt/</guid>
+      <description>Andrew Rowberg, Carol Tsai, Danning Lu, and Nicholas Adamski competed for UCSB in San Juan Capistrano for the chance to represent District 22 in the Grand National Teams. The foursome romped through the qualifying stage - earning 100 out of a possible 120 victory points to earn the top seed - before being narrowly edged out in a photo-finish finals knockout. When the swallows come back to Capistrano, UCSB will be back and ready to take the crown next time!</description>
+    </item>
+    
+    <item>
+      <title>UCSB participates in the program&#39;s first College Bridge Bowl</title>
+      <link>http://ucsbbridge.github.io/news/2018_college_bowl/</link>
+      <pubDate>Sat, 22 Aug 1970 06:46:45 -0700</pubDate>
+      
+      <guid>http://ucsbbridge.github.io/news/2018_college_bowl/</guid>
+      <description>Andrew Rowberg, Danning Lu, Michael Swift, Nicholas Adamski, Carol Tsai, and Jon Martin played for UCSB in Atlanta in the 2018 College Bridge Bowl after earning a participation travel package to the competition. UCSB performed admirably in the group phase before petering out a bit toward the conclusion. Still, the team qualified for the championship knockout before losing to eventual champion UC Berkeley. In the inaugural Collegiate Individual Competition, Andrew won first place and a $2,000 scholarship!</description>
     </item>
     
     <item>
